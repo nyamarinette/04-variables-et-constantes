@@ -1,0 +1,20 @@
+--> En résumé :
+- Une variable est un outil contenant une donnee, par exemple un mot ou un chiffre, et qui va etre utilise par un programme.
+-Le nom d'une variable doit refleter la signification de son contenu, comme des etiquettes sur une boite.
+-Une constante est un objet dont l'etat reste inchange durant toute l'execution d'un programme.
+-Dans une variable evitons de mettre les caracteres speciaux et les espaces.
+-nous pouvons commencer une variable avec une lettre majuscule ou underscore(_)
+-Nous avions plusieurs facon d'ecrire une variable :
+            uneVariableUnPeuLongue ( camel case)
+            UneVariable (pascal case)
+            une_variable (snake case)
+
+- Ici je vous présente la déclaration d'une variable.
+J'ai affecté une valeur 30 a la variable
+
+Une constante est une donnee qui ne peut pas changer.
+- Pour creer une constante en java on mettra le mot cle ( final )
+                                              le type ( int )
+                                              nom de la variable ( en majuscule)
+
+
